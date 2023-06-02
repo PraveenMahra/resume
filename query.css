@@ -1,0 +1,31 @@
+@media (max-width: 68rem) {
+  .footer-head {
+    display: block;
+    text-align: center;
+    padding: 2rem;
+  }
+
+  .footer-heading {
+    margin-bottom: 1rem;
+  }
+
+  .para-footer {
+    margin-bottom: 1rem;
+  }
+}
+
+@media (max-width: 63rem) {
+  .workplace {
+    display: block;
+  }
+
+  .company-logo {
+    margin-right: 3rem;
+  }
+}
+
+@media (max-width: 50rem) {
+  .skill-grid {
+    display: block;
+  }
+}
