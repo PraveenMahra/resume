@@ -29,3 +29,113 @@
     display: block;
   }
 }
+
+@media (max-width: 34rem) {
+  .navbar {
+    width: 100%;
+  }
+
+  .navbar ul {
+    gap: 1.2rem;
+    font-size: 1.2rem;
+  }
+
+  .intro-heading {
+    font-size: 2.5rem;
+  }
+
+  .intro-para {
+    width: 100%;
+    margin: auto;
+    font-size: 1.3rem;
+  }
+
+  .intro-sec {
+    padding: 1rem;
+  }
+
+  .intro-sec-heading {
+    font-size: 2.5rem;
+  }
+
+  .intro-sec-para {
+    font-size: 1.3rem;
+    width: 100%;
+  }
+
+  .skill-section {
+    margin-top: -8rem;
+  }
+
+  .skill-heading {
+    font-size: 2rem;
+  }
+
+  .skill-para {
+    font-size: 1.3rem;
+  }
+
+  .skill-subheading {
+    font-size: 1.5rem;
+  }
+
+  .skill-list {
+    font-size: 1.3rem;
+  }
+
+  .skill-language {
+    font-size: 1.3rem;
+  }
+
+  .heading-experiance {
+    font-size: 2.5rem;
+  }
+
+  .para-experiance {
+    font-size: 1.3rem;
+  }
+
+  .experiance-head {
+    padding: 10rem;
+  }
+
+  .workplace {
+    margin-top: -10rem;
+  }
+
+  .detail-para {
+    font-size: 1.3rem;
+  }
+
+  .heading-detail {
+    font-size: 2.2rem;
+  }
+
+  .company {
+    padding: 3rem;
+  }
+
+  .company-logo img {
+    width: 4rem;
+  }
+
+  .Responsibilities {
+    font-size: 1.3rem;
+  }
+
+  .project-heading {
+    font-size: 2.5rem;
+  }
+
+  .project-para {
+    font-size: 1.3rem;
+  }
+
+  .footer-heading {
+    font-size: 2.5rem;
+  }
+
+  .para-footer {
+    font-size: 1.3rem;
+  }
+}
