@@ -17,6 +17,11 @@ body {
   font-size: 1.6rem;
 }
 
+.content-box {
+  max-width: 130rem;
+  margin: auto;
+}
+
 .navbar {
   padding: 3rem;
   position: sticky;
